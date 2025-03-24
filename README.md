@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá, eu sou o Lucas Machado!
 
-<!--
-**EraseSec/EraseSec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedor Full Stack apaixonado por transformar ideias em soluções digitais.  
+Tenho experiência com HTML, CSS, JavaScript, dentre outras tecnologias.
 
-Here are some ideas to get you started:
+## ⚙️ Tecnologias que trabalho:
+- HTML / CSS
+- JavaScript / TypeScript
+- Oracle
+- Git / GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Projetos em destaque:
+Confira os repositórios fixados acima!
+
+## 📫 Conecte-se comigo:
+[LinkedIn](https://www.linkedin.com/in/lucas-machado-ti/)  
+[Email: lucas.machado.ti@hotmail.comm
