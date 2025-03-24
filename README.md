@@ -14,4 +14,4 @@ Confira os repositórios fixados acima!
 
 ## 📫 Conecte-se comigo:
 [LinkedIn](https://www.linkedin.com/in/lucas-machado-ti/)  
-[Email: lucas.machado.ti@hotmail.comm
+[Email: lucas.machado.ti@hotmail.com]
